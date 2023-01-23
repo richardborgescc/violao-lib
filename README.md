@@ -4,6 +4,9 @@ Brazilian 7 Strings Classical Acoustic Guitar
 # Musics
 ## A
 1. [Alceu Valença](https://www.cifraclub.com.br/alceu-valenca/)
+1. [Angra](https://www.cifraclub.com.br/angra/)
+1. [Agustin Barrios Mangore](https://www.songsterr.com/a/wsa/agustin-barrios-mangore-tabs-a821)
+    1. [La Catedral III Allegro Solemne](https://www.songsterr.com/a/wsa/agustin-barrios-mangore-la-catedral-iii-allegro-solemne-tab-s22742)
 ## B
 1. [barao-vermelho](https://www.cifraclub.com.br/barao-vermelho/)
 1. [bruno-e-marrone](https://www.cifraclub.com.br/bruno-e-marrone/)
@@ -25,6 +28,7 @@ Brazilian 7 Strings Classical Acoustic Guitar
 1. [Detonautas](https://www.cifraclub.com.br/detonautas/)
 ## E
 1. [Engenheiros do Hawaii](https://www.cifraclub.com.br/engenheiros-do-hawaii/)
+1. [Ed Motta](https://www.cifraclub.com.br/ed-motta/)
 ## G
 1. [gilberto-gil](https://www.cifraclub.com.br/gilberto-gil/)
 ## I
