@@ -1,8 +1,7 @@
 ## A
 1. [Alceu Valença](https://www.cifraclub.com.br/alceu-valenca/)
 1. [Angra](https://www.cifraclub.com.br/angra/)
-1. [Agustin Barrios Mangore](https://www.songsterr.com/a/wsa/agustin-barrios-mangore-tabs-a821)
-    1. [La Catedral III Allegro Solemne](https://www.soundslice.com/slices/S-LDc/?from=channel)
+1. [Adoniran Barbosa](https://www.cifraclub.com.br/adoniran-barbosa/)
 ## B
 1. [barao-vermelho](https://www.cifraclub.com.br/barao-vermelho/)
 1. [bruno-e-marrone](https://www.cifraclub.com.br/bruno-e-marrone/)
@@ -14,6 +13,7 @@
 1. [chitaozinho-e-xororo](https://www.cifraclub.com.br/chitaozinho-e-xororo/)
 1. [Charlie Brown Jr.](https://www.cifraclub.com.br/charlie-brown-jr/)
 1. [Cidadão Quem](https://www.cifraclub.com.br/cidadao-quem/)
+1. [Cartola](https://www.cifraclub.com.br/cartola/)
 ## D
 1. [Djavan](https://www.cifraclub.com.br/djavan/)
     1. [Eu Te Devoro](https://www.cifraclub.com.br/djavan/eu-te-devoro/#tabs=false&font=12)
@@ -30,8 +30,11 @@
 ## I
 1. [Ira!](https://www.cifraclub.com.br/ira/)
 ## J
+1. [João Bosco](https://www.cifraclub.com.br/joao-bosco/)
 1. [jorge-vercillo](https://www.cifraclub.com.br/jorge-vercillo/)
+  1. [Papel Marchê](https://www.cifraclub.com.br/jorge-vercillo/papel-marche/#font=11&tabs=false)
 1. [Jota Quest](https://www.cifraclub.com.br/jota-quest/)
+1. [Jorge Aragão](https://www.cifraclub.com.br/jorge-aragao/)
 ## L
 1. [lulu-santos](https://www.cifraclub.com.br/lulu-santos/)
 1. [leoni](https://www.cifraclub.com.br/leoni/)
@@ -54,6 +57,7 @@
 1. [tim-maia](https://www.cifraclub.com.br/tim-maia/)
 1. [titas](https://www.cifraclub.com.br/titas/)
 1. [tiago-iorc](https://www.cifraclub.com.br/tiago-iorc/)
+1. [Tom Jobim](https://www.cifraclub.com.br/tom-jobim/)
 ## V
 1. [vanessa-rangel](https://www.cifraclub.com.br/vanessa-rangel/)
 ## Z
